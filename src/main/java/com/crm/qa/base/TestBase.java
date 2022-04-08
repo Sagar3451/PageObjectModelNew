@@ -19,7 +19,7 @@ import com.crm.qa.util.WebEventListener;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class TestBase {
-	
+	//Base test
 	public static WebDriver driver;
 	public static Properties prop;
 	public  static EventFiringWebDriver e_driver;
